@@ -1,0 +1,14 @@
+//import Scss files
+@import "variables";
+
+.grid a img {
+  transition: all 0.2s ease-in;
+  filter: grayscale(100%);
+}
+
+section.container {
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: $text-primary;
+  letter-spacing: 1px;
+}
