@@ -1,4 +1,4 @@
-# Dog-Photos-Viewer
+# Bowling caculator
 
 ## Build Setup
 
